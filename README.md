@@ -7,6 +7,6 @@
 - [x] Izdomat ka reailzēt testu un sākt  rakstīt  programmu
 - [x] Optimizēt programmu 
 - [x] Izveidot prezentaciju
--[x]Izveidot divas UML diagrammas
+- [x]Izveidot divas UML diagrammas
   
 
